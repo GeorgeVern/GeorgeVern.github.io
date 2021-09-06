@@ -4,6 +4,7 @@ title: about
 permalink: /
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 description: # <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 =======
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
@@ -14,6 +15,9 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 description: # <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 >>>>>>> f786bd5 (Update about.md)
 >>>>>>> 621934e (Update about.md)
+=======
+description: # <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+>>>>>>> bc7408d (Update about.md)
 
 profile:
   align: right
@@ -35,6 +39,7 @@ social: true  # includes social icons at the bottom of the page
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello! I am a third-year Ph.D. student at the Electrical Engineering department at [EPFL](https://www.epfl.ch/en/) and a research assistant at [HEIG-VD](https://heig-vd.ch/), in Switzerland. My Ph.D. advisor is [Andrei Popescu-Belis](http://iict-space.heig-vd.ch/apu/). I am interested in (un)supervised machine translation and monolingual/cross-lingual language models. I also have a growing interest in active learning.
 =======
 =======
@@ -49,12 +54,19 @@ I am a first year Ph.D student at the Electrical Engineering department at [EPFL
 >>>>>>> 96e1745 (Update about.md)
 =======
 =======
+
+>>>>>>> bc7408d (Update about.md)
+=======
 # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. # The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+=======
 I am a first year Ph.D student at the Electrical Engineering department at [EPFL](https://www.epfl.ch/en/). I am also a Research Assistant at [HEIG-VD](https://heig-vd.ch/). 
 
 I am interested in machine translation and multilingual natural language processing. I am also interested in efficiency either in the form of models (transfer learning) or in the form of data (active learning).
+<<<<<<< HEAD
 >>>>>>> f786bd5 (Update about.md)
 >>>>>>> 621934e (Update about.md)
+=======
+>>>>>>> bc7408d (Update about.md)
 
 I am currently a Research Intern at Google in the [Google Assistant](https://assistant.google.com/) team in Zurich, Switzerland. I spent last summer as an Applied Scientist at Amazon Web Services ([AWS](https://aws.amazon.com/translate/)) in Santa Clara, CA, working with the Amazon Translate team.
 
