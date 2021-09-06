@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: # <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -17,8 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-#Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. #The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-I am a first year Ph.D student at the Electrical Engineering department at [EPFL](https://www.epfl.ch/en/). 
+# Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. # The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a first year Ph.D student at the Electrical Engineering department at [EPFL](https://www.epfl.ch/en/). I am also a Research Assistant at [HEIG-VD](https://heig-vd.ch/). 
+
+I am interested in machine translation and multilingual natural language processing. I am also interested in efficiency either in the form of models (transfer learning) or in the form of data (active learning).
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
