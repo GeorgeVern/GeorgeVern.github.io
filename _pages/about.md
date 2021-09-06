@@ -20,20 +20,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<<<<<<< HEAD
 
-<<<<<<< HEAD
 Hello! I am a third-year Ph.D. student at the Electrical Engineering department at [EPFL](https://www.epfl.ch/en/) and a research assistant at [HEIG-VD](https://heig-vd.ch/), in Switzerland. My Ph.D. advisor is [Andrei Popescu-Belis](http://iict-space.heig-vd.ch/apu/). I am interested in (un)supervised machine translation and monolingual/cross-lingual language models. I also have a growing interest in active learning.
-=======
-=======
-# Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. # The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-=======
-I am a first year Ph.D student at the Electrical Engineering department at [EPFL](https://www.epfl.ch/en/). I am also a Research Assistant at [HEIG-VD](https://heig-vd.ch/). 
-=======
-<!---Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. # The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. --->
-Hello! I am a first year Ph.D student at the Electrical Engineering department at [EPFL](https://www.epfl.ch/en/) and a Research Assistant at [HEIG-VD](https://heig-vd.ch/). 
->>>>>>> c214f92 (Update about.md)
->>>>>>> f7436ab (Update about.md)
 
 I am currently a Research Intern at Google in the [Google Assistant](https://assistant.google.com/) team in Zurich, Switzerland. I spent last summer as an Applied Scientist at Amazon Web Services ([AWS](https://aws.amazon.com/translate/)) in Santa Clara, CA, working with the Amazon Translate team.
 
