@@ -1,8 +1,8 @@
 ---
 layout: about
 title: about
-permalink: /
 index: 1
+permalink: /
 description: # <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
