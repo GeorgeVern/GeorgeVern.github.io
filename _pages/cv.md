@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /CV/
 title: CV
 index: 3
+permalink: /CV/
 nav: true
 nav_order: 5
 ---
