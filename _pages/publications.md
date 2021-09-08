@@ -1,13 +1,10 @@
 ---
 layout: page
 title: publications
-<<<<<<< HEAD
+index: 2
 permalink: /publications/
 description: 
 years: [2022, 2021, 2020]
-=======
-index: 2
-permalink: /publications/
 nav: true
 nav_order: 1
 ---
