@@ -1,7 +1,6 @@
 ---
 layout: page
 title: publications
-index: 2
 permalink: /publications/
 description: 
 years: [2021, 2020]
