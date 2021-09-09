@@ -1,8 +1,7 @@
 ---
 layout: page
 title: CV
-index: 3
-permalink: /CV/
+permalink: /vitae/
 nav: true
 ---
 
