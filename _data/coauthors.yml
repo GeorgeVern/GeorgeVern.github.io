@@ -6,9 +6,16 @@
   - firstname: ["Katerina", "K."]
     url: https://scholar.google.com/citations?user=517t5gEAAAAJ
 
+<<<<<<< HEAD
 "Chronopoulou":
   - firstname: ["Alexandra", "A."]
     url: https://scholar.google.com/citations?user=XiwRCRIAAAAJ&hl=en
+=======
+<<<<<<< HEAD
+"Rosen":
+  - firstname: ["Nathan", "N."]
+    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+>>>>>>> d1d672d (Update coauthors.yml)
 
 "Atrio":
   - firstname: ["Alex R.", "A.R."]
@@ -61,4 +68,16 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+<<<<<<< HEAD
 >>>>>>> 07330b9 (Adds support `max_author_limit` (#732))
+=======
+=======
+"Chronopoulou":
+  - firstname: ["Alexandra", "A."]
+    url: https://scholar.google.com/citations?user=XiwRCRIAAAAJ&hl=en
+    
+ "Androutsopoulos":
+  - firstname: ["Ion", "I."]
+    url: https://scholar.google.com/citations?user=4UJm5EQAAAAJ&hl=en
+>>>>>>> 3b74b3e (Update coauthors.yml)
+>>>>>>> d1d672d (Update coauthors.yml)
