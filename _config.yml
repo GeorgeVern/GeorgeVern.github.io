@@ -21,8 +21,12 @@ icon: 📃 #  the emoji used as the favicon
 =======
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
+<<<<<<< HEAD
 icon: # 📃 # the emoji used as the favicon
 >>>>>>> 2dbd947 (Update _config.yml)
+=======
+icon: 📃 # the emoji used as the favicon
+>>>>>>> f5f1934 (Update _config.yml)
 url: # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
