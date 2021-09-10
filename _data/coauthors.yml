@@ -6,17 +6,9 @@
   - firstname: ["Katerina", "K."]
     url: https://scholar.google.com/citations?user=517t5gEAAAAJ
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 "Chronopoulou":
   - firstname: ["Alexandra", "A."]
     url: https://scholar.google.com/citations?user=XiwRCRIAAAAJ&hl=en
-=======
-<<<<<<< HEAD
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
->>>>>>> d1d672d (Update coauthors.yml)
 
 "Atrio":
   - firstname: ["Alex R.", "A.R."]
@@ -42,7 +34,6 @@
   - firstname: ["Nikolaos", "N."]
     url: https://scholar.google.co.uk/citations?user=uxRWFhoAAAAJ&hl=en
 
-<<<<<<< HEAD
 "Barrault":
   - firstname: ["Loic", "L."]
     url: https://scholar.google.fr/citations?user=i4IBjw4AAAAJ&hl=en
@@ -50,40 +41,4 @@
 #"Dolamic":
 #  - firstname: ["Ljiljana", "L."]
 #    url: https://www.semanticscholar.org/author/Ljiljana-Dolamic/2094810509
-=======
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
-<<<<<<< HEAD
->>>>>>> 07330b9 (Adds support `max_author_limit` (#732))
-=======
-=======
-=======
->>>>>>> 25f3535 (Update coauthors.yml)
-"Chronopoulou":
-  - firstname: ["Alexandra", "A."]
-    url: https://scholar.google.com/citations?user=XiwRCRIAAAAJ&hl=en
-    
- "Androutsopoulos":
-  - firstname: ["Ion", "I."]
-    url: https://scholar.google.com/citations?user=4UJm5EQAAAAJ&hl=en
-<<<<<<< HEAD
->>>>>>> 3b74b3e (Update coauthors.yml)
->>>>>>> d1d672d (Update coauthors.yml)
-=======
->>>>>>> 25f3535 (Update coauthors.yml)
