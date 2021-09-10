@@ -153,8 +153,8 @@ github: [metadata]
 
 scholar:
 
-  last_name: "Vernikos"
-  first_name: ["Giorgos", "G."]
+  last_name: Vernikos
+  first_name: [Giorgos, G.]
 
   style: chicago-fullnote-bibliography
   locale: en
