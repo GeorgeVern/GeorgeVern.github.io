@@ -7,6 +7,7 @@
     url: https://scholar.google.com/citations?user=517t5gEAAAAJ
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Chronopoulou":
   - firstname: ["Alexandra", "A."]
     url: https://scholar.google.com/citations?user=XiwRCRIAAAAJ&hl=en
@@ -72,6 +73,8 @@
 >>>>>>> 07330b9 (Adds support `max_author_limit` (#732))
 =======
 =======
+=======
+>>>>>>> 25f3535 (Update coauthors.yml)
 "Chronopoulou":
   - firstname: ["Alexandra", "A."]
     url: https://scholar.google.com/citations?user=XiwRCRIAAAAJ&hl=en
@@ -79,5 +82,8 @@
  "Androutsopoulos":
   - firstname: ["Ion", "I."]
     url: https://scholar.google.com/citations?user=4UJm5EQAAAAJ&hl=en
+<<<<<<< HEAD
 >>>>>>> 3b74b3e (Update coauthors.yml)
 >>>>>>> d1d672d (Update coauthors.yml)
+=======
+>>>>>>> 25f3535 (Update coauthors.yml)
