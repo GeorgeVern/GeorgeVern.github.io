@@ -1,4 +1,4 @@
-# -----------------------------------------------------------------------------
+s# -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
 
@@ -84,8 +84,11 @@ mastodon_instance: # your mastodon instance
 linkedin_username: giorgos-vernikos-771200151 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: 1AgA0_YAAAAJ&hl # your Google Scholar ID
+<<<<<<< HEAD
 semanticscholar_id: 1972392392 # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+=======
+>>>>>>> b474179 (Update _config.yml)
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -125,6 +128,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
 #blog_description: a simple whitespace theme for academics
 #permalink: /blog/:year/:title/
@@ -140,11 +144,17 @@ permalink: /blog/:year/:title/
 #permalink: /blog/:year/:title/
 >>>>>>> 3c28a56 (Update _config.yml)
 >>>>>>> 234a1af (Update _config.yml)
+=======
+#blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
+#blog_description: a simple whitespace theme for academics
+#permalink: /blog/:year/:title/
+>>>>>>> b474179 (Update _config.yml)
 
 # Pagination
 #pagination:
 #  enabled: true
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 # Comments
@@ -178,6 +188,10 @@ disqus_shortname: al-folio # put your disqus shortname
 #disqus_shortname: al-folio # put your disqus shortname
 >>>>>>> 3c28a56 (Update _config.yml)
 >>>>>>> 234a1af (Update _config.yml)
+=======
+# Comments
+#disqus_shortname: al-folio # put your disqus shortname
+>>>>>>> b474179 (Update _config.yml)
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -288,12 +302,17 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
 <<<<<<< HEAD
+<<<<<<< HEAD
   last_name: Vernikos
   first_name: [Giorgos, G.]
 =======
   last_name: [Einstein]
   first_name: [Albert, A.]
 >>>>>>> bfc4725 (add multiple last names in bibliography (#905))
+=======
+  last_name: "Vernikos"
+  first_name: ["Giorgos", "G."]
+>>>>>>> b474179 (Update _config.yml)
 
   style: chicago-fullnote-bibliography
   locale: en
