@@ -1,15 +1,15 @@
-"Popescu-Belis":
-  - firstname: ["Andrei", "A."]
-    url: https://scholar.google.com/citations?user=E4kF67wAAAAJ&hl=en
-
-"Margatina":
-  - firstname: ["Katerina", "K."]
-    url: https://scholar.google.com/citations?user=517t5gEAAAAJ
-
-"Chronopoulou":
-  - firstname: ["Alexandra", "A."]
-    url: https://scholar.google.com/citations?user=XiwRCRIAAAAJ&hl=en
-    
- "Androutsopoulos":
-  - firstname: ["Ion", "I."]
-    url: https://scholar.google.com/citations?user=4UJm5EQAAAAJ&hl=en
+#"Popescu-Belis":
+#  - firstname: ["Andrei", "A."]
+#    url: https://scholar.google.com/citations?user=E4kF67wAAAAJ&hl=en
+#
+#"Margatina":
+#  - firstname: ["Katerina", "K."]
+#    url: https://scholar.google.com/citations?user=517t5gEAAAAJ
+#
+#"Chronopoulou":
+#  - firstname: ["Alexandra", "A."]
+#    url: https://scholar.google.com/citations?user=XiwRCRIAAAAJ&hl=en
+#    
+# "Androutsopoulos":
+#  - firstname: ["Ion", "I."]
+#    url: https://scholar.google.com/citations?user=4UJm5EQAAAAJ&hl=en
