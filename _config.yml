@@ -1,4 +1,4 @@
-# -----------------------------------------------------------------------------
+s# -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
 
@@ -153,10 +153,10 @@ github: [metadata]
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: "Vernikos"
+  first_name: ["Giorgos", "G."]
 
-  style: apa
+  style: chicago-fullnote-bibliography
   locale: en
 
   source: /_bibliography/
