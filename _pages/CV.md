@@ -1,7 +1,7 @@
 ---
 layout: page
 title: vitae
-permalink: /cv/
+permalink: /assets/pdf/My_Curriculum_Vitae.pdf
 nav: true
 ---
 
