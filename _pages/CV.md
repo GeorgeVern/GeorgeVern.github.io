@@ -1,7 +1,7 @@
 ---
 layout: page
 title: vitae
-permalink: /assets/pdf/My_Curriculum_Vitae.pdf
+permalink: /assets/pdf/Giorgos_Vernikos_Curriculum_Vitae.pdf
 nav: true
 ---
 
