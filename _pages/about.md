@@ -2,7 +2,11 @@
 layout: about
 title: about
 permalink: /
+<<<<<<< HEAD
 description: # <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+=======
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+>>>>>>> b950fc3 (Better SEO, OpenGraph, schema.org and clean generated code (#481))
 
 profile:
   align: right
