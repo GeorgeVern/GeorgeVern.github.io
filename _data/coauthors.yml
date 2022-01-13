@@ -11,7 +11,7 @@
     url: https://scholar.google.com/citations?user=XiwRCRIAAAAJ&hl=en
 
 "Atrio":
-  - firstname: ["`Alex R.", "`A.R."]
+  - firstname: ["{\`A}lex R.", "{\`A}.R."]
     url: https://scholar.google.com/citations?user=Slhn1M4AAAAJ&hl=en
     
 "Androutsopoulos":
@@ -26,6 +26,6 @@
   - firstname: ["Loic", "L."]
     url: https://scholar.google.fr/citations?user=i4IBjw4AAAAJ&hl=en
     
-"Dolamic":
-  - firstname: ["Ljiljana", "L."]
-    url: https://www.semanticscholar.org/author/Ljiljana-Dolamic/2094810509
+#"Dolamic":
+#  - firstname: ["Ljiljana", "L."]
+#    url: https://www.semanticscholar.org/author/Ljiljana-Dolamic/2094810509
