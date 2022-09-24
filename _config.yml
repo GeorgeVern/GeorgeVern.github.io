@@ -68,16 +68,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: GeorgeVern # your GitHub user name
 gitlab_username: # your GitLab user name
-<<<<<<< HEAD
 twitter_username: gvernikos # your Twitter handle
 linkedin_username: giorgos-vernikos-771200151 # your LinkedIn user name
-scholar_userid: 1AgA0_YAAAAJ&hl # your Google Scholar ID
-=======
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
->>>>>>> 7410772 (Add Semantic Scholar social integration (#879))
+semanticscholar_id: 1972392392 # your Semantic Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -234,8 +227,13 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
+<<<<<<< HEAD
   last_name: Vernikos
   first_name: [Giorgos, G.]
+=======
+  last_name: [Einstein]
+  first_name: [Albert, A.]
+>>>>>>> bfc4725 (add multiple last names in bibliography (#905))
 
   style: chicago-fullnote-bibliography
   locale: en
