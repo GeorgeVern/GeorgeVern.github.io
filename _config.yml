@@ -70,7 +70,6 @@ github_username: GeorgeVern # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: gvernikos # your Twitter handle
 mastodon_username: # your mastodon username
-mastodon_instance: # your mastodon instance
 linkedin_username: giorgos-vernikos-771200151 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: 1AgA0_YAAAAJ&hl # your Google Scholar ID
@@ -131,9 +130,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
