@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I have been a teaching assistant in the [HES-SO](https://www.hes-so.ch/accueil) University in the following modules: 
+* Analysis of Text Data (AnTeDe) (2022)
+* Analysis of Text Data (AnTeDe) (2021)
 
-Organize your courses by years, topics, or universities, however you like!
+My responsibilites include weekly laboratory sessions where I assist students with Python, various libraries (e.g. scikit-learn, HuggingFace) and concepts regarding natural language processing, machine learning and deep learning. 
