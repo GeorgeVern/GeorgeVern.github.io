@@ -1,22 +1,20 @@
-@inproceedings{document_metric,
-    abbr={WMT},
-    title = {Embarrassingly Easy Document-Level MT Metrics: How to Convert Any Pretrained Metric Into a Document-Level Metric},
-    author = {G. Vernikos and B. Thompson and P. Mathur and M. Federico},
+@inproceedings{huffman_subword,
+    abbr={EAMT},
+    title = {Assessing the Importance of Frequency versus Compositionality for Subword-based Tokenization in NMT.},
+    author = {B. Wolleb and R. Silvestri and G. Vernikos and },
     year = {2023},
-    booktitle = "SIGHUM",
-    abstract = {We present a very simple method for extending pretrained machine translation metrics to incorporate document-level context. We apply our method to four popular metrics: BERTScore, Prism, COMET, and the reference-free metric COMET-QE. 
-    We evaluate our document-level metrics on the MQM annotations from the WMT 2021 metrics shared task and find that the document-level metrics outperform their sentence-level counterparts in about 85\% of the tested conditions, when excluding results on low-quality human references. 
-    Additionally, we show that our document-level extension of COMET-QE dramatically improves accuracy on discourse phenomena tasks, supporting our hypothesis that our document-level metrics are resolving ambiguities in the reference sentence by using additional context.},
-    pdf = {https://aclanthology.org/2022.wmt-1.6/},
-    code = {https://github.com/amazon-science/doc-mt-metrics},
-    blog = {https://slator.com/converting-pre-trained-mt-metric-into-document-level-metric-amazon-study/},
-    selected={true},
+    booktitle = "EAMT",
+    abstract = {Subword tokenization is the \textit{de facto} standard for tokenization in neural language models and machine translation systems.  
+    Three advantages are frequently cited in favor of subwords: shorter encoding of frequent tokens, compositionality of subwords, and ability to deal with unknown words. 
+    As their relative importance is not entirely clear yet, we propose a tokenization approach that enables us to separate frequency (the first advantage) from compositionality. 
+    The approach uses Huffman coding to tokenize words, by order of frequency, using a fixed amount of symbols. 
+    Experiments with CS-DE, EN-FR and EN-DE NMT show that frequency alone accounts for 90\%-95\% of the scores reached by BPE, hence compositionality has less importance than previously thought.},
 }
 
 @inproceedings{gpoet,
     abbr={SIGHUM},
     title = {GPoeT: a Language Model Trained for Rhyme Generation on Synthetic Data},
-    author = {A. Popescu-Belis and A.R. Atrio and B. Bernath and E. Boisson and T. Ferrari and X. Theimer-lienhard and G. Vernikos},
+    author = {A. Popescu-Belis and A.R. Atrio and B. Bernath and E. Boisson and T. Ferrari and X. Theimer-lienhard and G. Vernikos and L. Dolamic and A. Popescu-Belis},
     year = {2023},
     booktitle = "SIGHUM",
     abstract = {Poem generation with language models requires the modeling of rhyming patterns. We propose a novel solution for learning to rhyme, based on synthetic data generated with a rule-based rhyming algorithm. 
