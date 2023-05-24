@@ -1,6 +1,6 @@
 @inproceedings{LMCor,
       title={Small Language Models Improve Giants by Rewriting Their Outputs}, 
-      author={. Vernikos and A. Bražinskas and J. Adamek and J. Mallinson and A. Severyn and E. Malmi},
+      author={G. Vernikos and A. Bražinskas and J. Adamek and J. Mallinson and A. Severyn and E. Malmi},
       booktitle = "Arxiv",
       year={2023},
       abstract = {Large language models (LLMs) have demonstrated impressive few-shot learning capabilities, but they often underperform compared to fine-tuned models on challenging tasks. 
@@ -9,8 +9,7 @@
         In this light, we propose a method to correct LLM outputs without relying on their weights. 
         First, we generate a pool of candidates by few-shot prompting an LLM. Second, we refine the LLM-generated outputs using a smaller model, the LM-corrector (LMCor), which is trained to rank, combine and rewrite the candidates to produce the final target output. 
         Our experiments demonstrate that even a small LMCor model (250M) substantially improves the few-shot performance of LLMs (62B) across diverse tasks. Moreover, we illustrate that the LMCor exhibits robustness against different prompts, thereby minimizing the need for extensive prompt engineering. 
-        Finally, we showcase that the LMCor can be seamlessly integrated with different LLMs at inference time, serving as a plug-and-play module to improve their performance.}.  
-
+        Finally, we showcase that the LMCor can be seamlessly integrated with different LLMs at inference time, serving as a plug-and-play module to improve their performance.},
 }
 
 
