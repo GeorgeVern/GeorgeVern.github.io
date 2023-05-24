@@ -18,6 +18,26 @@
   - firstname: ["Ion", "I."]
     url: https://scholar.google.com/citations?user=4UJm5EQAAAAJ&hl=en
     
+"Malmi":
+  - firstname: ["Eric", "E."]
+    url: https://ericmalmi.com/
+    
+"Adamek":
+  - firstname: ["Jakub", "J."]
+    url: https://www.semanticscholar.org/author/Jakub-Adamek/50290651
+
+"Mallinson":
+  - firstname: ["Jonathan", "J."]
+    url: https://scholar.google.co.uk/citations?user=6Yjwg9EAAAAJ&hl=en
+
+"Bražinskas":
+  - firstname: ["Arthur", "A."]
+    url: http://www.abrazinskas.com/
+ 
+"Severyn":
+  - firstname: ["Aliaksei", "A."]
+    url: https://scholar.google.com/citations?user=EoVDI3MAAAAJ&hl=en
+    
 "Thompson":
   - firstname: ["Brian", "B."]
     url: https://scholar.google.com/citations?user=6IGa-LoAAAAJ&hl=en
