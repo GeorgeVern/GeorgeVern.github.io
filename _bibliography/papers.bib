@@ -1,3 +1,21 @@
+@inproceedings{vernikos2024dont,
+      title={Don't Rank, Combine! Combining Machine Translation Hypotheses Using Quality Estimation}, 
+      author={Giorgos Vernikos and Andrei Popescu-Belis},
+      booktitle = "Arxiv"
+      year={2024},
+      abstract = {Neural machine translation systems estimate probabilities of target sentences given source sentences, yet these estimates may not align with human preferences. 
+      This work introduces QE-fusion, a method utilizing a quality estimation metric (QE) that better correlates with human judgments to synthesize improved translations. 
+      QE-fusion leverages a candidate pool sampled from a model, combining spans from different candidates using QE metrics such as CometKiwi. We compare QE-fusion against beam search and recent reranking techniques, such as Minimum Bayes Risk decoding or QE-reranking. 
+      Our method consistently improves translation quality in terms of COMET and BLEURT scores when applied to large language models (LLMs) used for translation (PolyLM, XGLM, Llama2, and Mistral) and to multilingual translation models (NLLB), over five language pairs. 
+      Notably, QE-fusion exhibits larger improvements for LLMs due to their ability to generate diverse outputs. 
+      We demonstrate that our approach generates novel translations in over half of the cases and consistently outperforms other methods across varying numbers of candidates (5-200). 
+      Furthermore, we empirically establish that QE-fusion scales linearly with the number of candidates in the pool. 
+      QE-fusion proves effective in enhancing LLM-based translation without the need for costly retraining of LLMs.},
+      pdf={https://arxiv.org/abs/2401.066884},
+      selected={true},
+}
+
+
 @inproceedings{LMCor,
       title={Small Language Models Improve Giants by Rewriting Their Outputs}, 
       author={G. Vernikos and A. Bražinskas and J. Adamek and J. Mallinson and A. Severyn and E. Malmi},
