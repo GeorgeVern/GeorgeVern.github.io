@@ -11,8 +11,9 @@
       We demonstrate that our approach generates novel translations in over half of the cases and consistently outperforms other methods across varying numbers of candidates (5-200). 
       Furthermore, we empirically establish that QE-fusion scales linearly with the number of candidates in the pool. 
       QE-fusion proves effective in enhancing LLM-based translation without the need for costly retraining of LLMs.},
-      pdf={https://arxiv.org/abs/2401.066884},
-      selected={true},
+      pdf = {https://arxiv.org/abs/2401.066884},
+      tldr = {https://twitter.com/gvernikos/status/1746907975028035756},
+      selected = {true},
 }
 
 
@@ -30,6 +31,7 @@
         Our experiments demonstrate that even a small LMCor model (250M) substantially improves the few-shot performance of LLMs (62B) across diverse tasks. Moreover, we illustrate that the LMCor exhibits robustness against different prompts, thereby minimizing the need for extensive prompt engineering. 
         Finally, we showcase that the LMCor can be seamlessly integrated with different LLMs at inference time, serving as a plug-and-play module to improve their performance.},
       pdf={https://arxiv.org/abs/2305.13514},
+      tldr={https://twitter.com/gvernikos/status/1661290757385330688},
       selected={true},
 }
 
@@ -47,8 +49,8 @@
     Experiments with CS-DE, EN-FR and EN-DE NMT show that frequency alone accounts for 90\%-95\% of the scores reached by BPE, hence compositionality has less importance than previously thought.},
     pdf={https://aclanthology.org/2023.eamt-1.14.pdf},
     code={https://github.com/heig-iict-ida/huffman-tokenizer},
-    slides="EAMT 2023 slides.pdf",
-    poster="EAMT23_poster.pdf"
+    slides = "EAMT 2023 slides.pdf",
+    poster = "EAMT23_poster.pdf"
 }
 
 @inproceedings{gpoet,
@@ -64,7 +66,6 @@
     Alternating rhymes (ABAB) are more difficult to model because of longer-range dependencies, but they are still learnable from synthetic data, reaching 45\% of rhyming lines in generated samples.},
     pdf = {https://aclanthology.org/2023.latechclfl-1.2/},
     code = {https://github.com/heig-iict-ida/crpo},
-    
 }
 
 @inproceedings{document_metric,
@@ -77,6 +78,7 @@
     We evaluate our document-level metrics on the MQM annotations from the WMT 2021 metrics shared task and find that the document-level metrics outperform their sentence-level counterparts in about 85\% of the tested conditions, when excluding results on low-quality human references. 
     Additionally, we show that our document-level extension of COMET-QE dramatically improves accuracy on discourse phenomena tasks, supporting our hypothesis that our document-level metrics are resolving ambiguities in the reference sentence by using additional context.},
     pdf = {https://aclanthology.org/2022.wmt-1.6/},
+    tldr = {https://twitter.com/gvernikos/status/1575499992848302081},
     code = {https://github.com/amazon-science/doc-mt-metrics},
     blog = {https://slator.com/converting-pre-trained-mt-metric-into-document-level-metric-amazon-study/},
     selected={true},
@@ -90,6 +92,7 @@ abbr={EMNLP},
       booktitle = "EMNLP (Findings)",
       selected={true},
       pdf= {https://aclanthology.org/2021.findings-emnlp.224/},
+      tldr = {https://twitter.com/gvernikos/status/1438135806577758212},
       abstract = {State-of-the-art multilingual systems rely on shared vocabularies that sufficiently cover all considered languages. 
       To this end, a simple and frequently used approach makes use of subword vocabularies constructed jointly over several languages. 
       We hypothesize that such vocabularies are suboptimal due to false positives (identical subwords with different meanings across languages) and false negatives (different subwords with similar meanings). 
@@ -115,6 +118,7 @@ abbr={EMNLP},
       Our experiments show that CAL performs consistently better or equal than the best performing baseline across all tasks, on both in-domain and out-of-domain data. 
       We also conduct an extensive ablation study of our method and we further analyze all actively acquired datasets showing that CAL achieves a better trade-off between uncertainty and diversity compared to other strategies.},
       pdf = {https://aclanthology.org/2021.emnlp-main.51/},
+      tldr = {https://twitter.com/katemargatina/status/1437393852227276801},
       code={https://github.com/mourga/contrastive-active-learning},
 }
 
@@ -158,6 +162,7 @@ abbr={WMT},
     Intuitively, the adversarial classifier acts as a regularize which prevents the model from overfitting to the task-specific domain. 
     Empirical results on various natural language understanding tasks show that AFTER leads to improved performance compared to standard fine-tuning.},
     pdf = {https://aclanthology.org/2020.findings-emnlp.278/},
+    tldr = {https://twitter.com/gvernikos/status/1311010294735482880},
     code={https://github.com/GeorgeVern/AFTERV1.0},
     slides = "AFTER SustaiNLP.pdf"
 }
