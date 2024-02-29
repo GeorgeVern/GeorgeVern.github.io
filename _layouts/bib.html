@@ -20,6 +20,19 @@
             <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}
         {%- endif -%}
+              
+        {% if entry.award %}
+        <p>
+            <i class="em em-trophy" aria-role="presentation" style="font-size: 0.7em;" aria-label="TROPHY"></i>
+            <span  style="font-size: 0.8em;" > {{entry.award}}</span>
+        </p>
+        {% endif %}
+
+        {% if entry.image %}
+        <a href="{{entry.image}}" target="_blank">
+            <img src="{{entry.image}}" width="100%" alt="">
+        </a>
+        {% endif %}
         </div>
 
         <!-- Entry bib key -->
